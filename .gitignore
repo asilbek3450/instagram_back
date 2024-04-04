@@ -1,0 +1,14 @@
+venv
+*.yml
+*.log
+*.out
+*.pid
+
+.idea
+.env
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+
